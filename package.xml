@@ -418,7 +418,11 @@
         <name>DuplicateRule</name>
     </types>
     <types>
+        <members>Account.Fruits</members>
+        <members>Account.Fruits_for_people</members>
         <members>Account.devops_technologies</members>
+        <members>Contact.Developers</members>
+        <members>Contact.Release_engineers</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
@@ -1021,6 +1025,8 @@
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
+        <members>Contact-Non Technical</members>
+        <members>Contact-technologies</members>
         <members>ContactPointAddress-Contact Point Address Layout</members>
         <members>ContactPointEmail-Contact Point Email Layout</members>
         <members>ContactPointPhone-Contact Point Phone Layout</members>
@@ -1160,6 +1166,8 @@
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
+        <members>Account.Fruits_For_People__c</members>
+        <members>Account.Fruits__c</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
         <members>Account.NaicsCode</members>
@@ -1180,7 +1188,6 @@
         <members>Account.Sic</members>
         <members>Account.SicDesc</members>
         <members>Account.Site</members>
-        <members>Account.Start_date__c</members>
         <members>Account.TickerSymbol</members>
         <members>Account.Tier</members>
         <members>Account.Tradestyle</members>
@@ -1754,6 +1761,7 @@
         <members>Contact.Phone</members>
         <members>Contact.Pronouns</members>
         <members>Contact.ReportsToId</members>
+        <members>Contact.Roles__c</members>
         <members>Contact.Title</members>
         <members>ContactPointAddress.ActiveFromDate</members>
         <members>ContactPointAddress.ActiveToDate</members>
