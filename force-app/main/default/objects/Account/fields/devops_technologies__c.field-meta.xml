@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>devops_technologies__c</fullName>
+    <externalId>false</externalId>
+    <label>devops technologies</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Copado</fullName>
+                <default>false</default>
+                <label>Copado</label>
+            </value>
+            <value>
+                <fullName>Autorabit</fullName>
+                <default>false</default>
+                <label>Autorabit</label>
+            </value>
+            <value>
+                <fullName>Git</fullName>
+                <default>false</default>
+                <label>Git</label>
+            </value>
+            <value>
+                <fullName>Sfdx</fullName>
+                <default>false</default>
+                <label>Sfdx</label>
+            </value>
+            <value>
+                <fullName>Ant</fullName>
+                <default>false</default>
+                <label>Ant</label>
+            </value>
+            <value>
+                <fullName>Workbench</fullName>
+                <default>false</default>
+                <label>Workbench</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
