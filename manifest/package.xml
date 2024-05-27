@@ -1188,6 +1188,7 @@
         <members>AccountCleanInfo.Industry</members>
         <members>AccountCleanInfo.Ownership</members>
         <members>AccountContactRole.Role</members>
+        <members>Activity.Test_Activity__c</members>
         <members>Address.AddressType</members>
         <members>Address.Description</members>
         <members>Address.DrivingDirections</members>
