@@ -420,6 +420,8 @@
     <types>
         <members>Account.Check_1</members>
         <members>Account.Check_2</members>
+        <members>Account.Technologies_1</members>
+        <members>Account.Technologies_2</members>
         <members>Account.check</members>
         <members>Account.check3</members>
         <members>Account.check_2</members>
@@ -989,6 +991,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Account-Check 2</members>
+        <members>Account-Technologies</members>
         <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
         <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
         <members>AppointmentInvitation-Appointment Invitation Layout</members>
@@ -1192,6 +1195,7 @@
         <members>Account.SicDesc</members>
         <members>Account.Site</members>
         <members>Account.Start_date__c</members>
+        <members>Account.Technologies__c</members>
         <members>Account.TickerSymbol</members>
         <members>Account.Tier</members>
         <members>Account.Tradestyle</members>
