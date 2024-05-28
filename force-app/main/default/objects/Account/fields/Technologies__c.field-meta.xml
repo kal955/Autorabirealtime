@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Autorabit</label>
             </value>
+            <value>
+                <fullName>Java</fullName>
+                <default>false</default>
+                <label>Java</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
