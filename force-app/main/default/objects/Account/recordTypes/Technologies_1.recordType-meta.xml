@@ -185,10 +185,6 @@
             <fullName>Copado</fullName>
             <default>false</default>
         </values>
-        <values>
-            <fullName>Salesforce</fullName>
-            <default>false</default>
-        </values>
     </picklistValues>
     <picklistValues>
         <picklist>Type</picklist>
