@@ -2,11 +2,6 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Agriculture</fullName>
-        <default>false</default>
-        <label>Agriculture</label>
-    </standardValue>
-    <standardValue>
         <fullName>Apparel</fullName>
         <default>false</default>
         <label>Apparel</label>
@@ -160,5 +155,15 @@
         <fullName>Other</fullName>
         <default>false</default>
         <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>CloudFulcrum</fullName>
+        <default>false</default>
+        <label>CloudFulcrum</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Saalesforce</fullName>
+        <default>false</default>
+        <label>Saalesforce</label>
     </standardValue>
 </StandardValueSet>
