@@ -418,13 +418,6 @@
         <name>DuplicateRule</name>
     </types>
     <types>
-        <members>Account.Check_1</members>
-        <members>Account.Check_2</members>
-        <members>Account.check</members>
-        <members>Account.check3</members>
-        <members>Account.check_2</members>
-        <members>Contact.Developers</members>
-        <members>Contact.Release_engineers</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <name>RecordType</name>
     </types>
@@ -988,7 +981,6 @@
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
-        <members>Account-Check 2</members>
         <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
         <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
         <members>AppointmentInvitation-Appointment Invitation Layout</members>
@@ -1027,8 +1019,6 @@
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
         <members>Contact-Contact Layout</members>
-        <members>Contact-Non Technical</members>
-        <members>Contact-technologies</members>
         <members>ContactPointAddress-Contact Point Address Layout</members>
         <members>ContactPointEmail-Contact Point Email Layout</members>
         <members>ContactPointPhone-Contact Point Phone Layout</members>
@@ -1152,7 +1142,6 @@
         <name>PermissionSet</name>
     </types>
     <types>
-        <members>AccountHelper</members>
         <members>SimpleCalculator</members>
         <name>ApexClass</name>
     </types>
@@ -1163,14 +1152,12 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
         <members>Account.Check_if_true__c</members>
-        <members>Account.Checkig__c</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
         <members>Account.Description</members>
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
-        <members>Account.Fruits_For_People__c</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
         <members>Account.NaicsCode</members>
@@ -1763,7 +1750,6 @@
         <members>Contact.Phone</members>
         <members>Contact.Pronouns</members>
         <members>Contact.ReportsToId</members>
-        <members>Contact.Roles__c</members>
         <members>Contact.Title</members>
         <members>ContactPointAddress.ActiveFromDate</members>
         <members>ContactPointAddress.ActiveToDate</members>
