@@ -13,10 +13,6 @@
     <picklistValues>
         <picklist>Industry</picklist>
         <values>
-            <fullName>Agriculture</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Apparel</fullName>
             <default>false</default>
         </values>
@@ -118,6 +114,10 @@
         </values>
         <values>
             <fullName>Retail</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Saalesforce</fullName>
             <default>false</default>
         </values>
         <values>
