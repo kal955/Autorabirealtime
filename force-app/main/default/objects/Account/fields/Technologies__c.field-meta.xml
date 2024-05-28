@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Technologies__c</fullName>
+    <externalId>false</externalId>
+    <label>Technologies</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Salesforce</fullName>
+                <default>false</default>
+                <label>Salesforce</label>
+            </value>
+            <value>
+                <fullName>Copado</fullName>
+                <default>false</default>
+                <label>Copado</label>
+            </value>
+            <value>
+                <fullName>Autorabit</fullName>
+                <default>false</default>
+                <label>Autorabit</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
