@@ -418,6 +418,8 @@
         <name>DuplicateRule</name>
     </types>
     <types>
+        <members>Account.Check_1</members>
+        <members>Account.Check_2</members>
         <members>Account.check</members>
         <members>Account.check3</members>
         <members>Account.check_2</members>
@@ -986,6 +988,7 @@
         <members>Account-Account %28Sales%29 Layout</members>
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
+        <members>Account-Check 2</members>
         <members>AlternativePaymentMethod-Alternative Payment Method Layout</members>
         <members>ApiAnomalyEventStore-API Anomaly Event Store Layout</members>
         <members>AppointmentInvitation-Appointment Invitation Layout</members>
@@ -1160,6 +1163,7 @@
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
         <members>Account.Check_if_true__c</members>
+        <members>Account.Checkig__c</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
