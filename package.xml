@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>59.0</version>
+    <version>60.0</version>
     <types>
         <members>enablement_coaching_feedback_ready</members>
         <name>CustomNotificationType</name>
@@ -1167,6 +1167,7 @@
         <members>Account.BillingAddress</members>
         <members>Account.Check_if_true__c</members>
         <members>Account.Checkig__c</members>
+        <members>Account.Checking_for_hello__c</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
         <members>Account.DandbCompanyId</members>
