@@ -28,6 +28,10 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>Meta_data__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>apexEmailNotifications</members>
         <name>ApexEmailNotifications</name>
     </types>
@@ -97,6 +101,7 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Autorabit</members>
         <members>standard__AllTabSet</members>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
@@ -337,6 +342,7 @@
         <members>Location.all_locations</members>
         <members>LocationGroup.LocationGroup</members>
         <members>MessagingEndUser.BulkMessageMessagingEndUsers</members>
+        <members>Meta_data__c.All</members>
         <members>OperatingHours.All_OperatingHours</members>
         <members>Opportunity.AllOpportunities</members>
         <members>Opportunity.ClosingNextMonth</members>
@@ -428,6 +434,7 @@
         <members>Contact.Developers</members>
         <members>Contact.Release_engineers</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
+        <members>Meta_data__c.Custom_Record_Type</members>
         <name>RecordType</name>
     </types>
     <types>
@@ -609,6 +616,7 @@
         <name>AppMenu</name>
     </types>
     <types>
+        <members>Autorabit_UtilityBar</members>
         <members>ContactCenter_UtilityBar</members>
         <members>CrisisCenter_UtilityBar</members>
         <members>LightningSalesConsole_UtilityBar</members>
@@ -747,6 +755,7 @@
         <members>MacroUsage</members>
         <members>MessagingEndUser</members>
         <members>MessagingSession</members>
+        <members>Meta_data__c</members>
         <members>OperatingHours</members>
         <members>OperatingHoursHoliday</members>
         <members>Opportunity</members>
@@ -1076,6 +1085,8 @@
         <members>LocationGroup-Location Group Layout</members>
         <members>LocationGroupAssignment-Location Group Assignment Layout</members>
         <members>Macro-Macro Layout</members>
+        <members>Meta_data__c-Custom Page Layout</members>
+        <members>Meta_data__c-Meta data Layout</members>
         <members>OperatingHours-Operating Hours Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
@@ -2624,6 +2635,8 @@
         <members>MessagingSession.PreviewDetails</members>
         <members>MessagingSession.StartTime</members>
         <members>MessagingSession.Status</members>
+        <members>Meta_data__c.Custom_Field__c</members>
+        <members>Meta_data__c.Custom_Picklist__c</members>
         <members>OperatingHours.Description</members>
         <members>OperatingHours.Name</members>
         <members>OperatingHours.OwnerId</members>
