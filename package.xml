@@ -1187,6 +1187,7 @@
         <members>Account.DunsNumber</members>
         <members>Account.Fax</members>
         <members>Account.Fruits_For_People__c</members>
+        <members>Account.Hello_There__c</members>
         <members>Account.Hello__c</members>
         <members>Account.Industry</members>
         <members>Account.Jigsaw</members>
