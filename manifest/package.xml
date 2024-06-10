@@ -433,6 +433,7 @@
         <members>Account.check_2</members>
         <members>Contact.Developers</members>
         <members>Contact.Release_engineers</members>
+        <members>Contact.checking_for_assessment_check</members>
         <members>Idea.InternalIdeasIdeaRecordType</members>
         <members>Meta_data__c.Custom_Record_Type</members>
         <name>RecordType</name>
@@ -1035,6 +1036,7 @@
         <members>CommunityMemberLayout-Community Member Layout</members>
         <members>ConsumptionRate-Consumption Rate Layout</members>
         <members>ConsumptionSchedule-Consumption Schedule Layout</members>
+        <members>Contact-Checking for Task check</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
