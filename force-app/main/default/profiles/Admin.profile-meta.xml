@@ -4052,7 +4052,11 @@
         <layout>ConsumptionSchedule-Consumption Schedule Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
+        <layout>Contact-Checking for Task check</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-Checking for Task check</layout>
+        <recordType>Contact.checking_for_assessment_check</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Contact-Non Technical</layout>
@@ -5616,6 +5620,11 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Contact.Release_engineers</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Contact.checking_for_assessment_check</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
